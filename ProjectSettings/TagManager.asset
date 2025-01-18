@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EndOfMap
+  - Ground
+  - SpikeEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladders
+  - BG
+  - Player
+  - Bounce
+  - enemy
+  - Spikes
+  - Bullets
+  - Interactibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3068348441
+    locked: 0
+  - name: Platform
+    uniqueID: 3143850121
+    locked: 0
+  - name: Enemy
+    uniqueID: 2989178801
+    locked: 0
+  - name: Ladder
+    uniqueID: 2763259457
+    locked: 0
+  - name: Interactibles
+    uniqueID: 3002358199
+    locked: 0
+  - name: Bounce
+    uniqueID: 4272890315
+    locked: 0
+  - name: Player
+    uniqueID: 3195087721
+    locked: 0
+  - name: Spikes
+    uniqueID: 2701070881
+    locked: 0
+  - name: Water
+    uniqueID: 1897241265
+    locked: 0

@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 8910f5f9b407df649997d85581eb88f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 813
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a992c2c0d92b814da7e2d7a6d2cfcd6
+      internalID: 1151657880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c888170b951f46bbe7ced1b27eba2
+      internalID: 1788521167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 632
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa67b46e89bd04849bda7601e5e7d2df
+      internalID: -206685296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 324
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7bc3619c2a6f94992de73e65a50bd2
+      internalID: 1397245343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_22
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 324
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98046baa077f63f40a6f81b300d751ff
+      internalID: -1453829267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 324
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0401a9de851814fb85f80097e20fe3
+      internalID: 320376102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_24
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 324
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfe01827c1f5b4cbd026222fe3011a
+      internalID: -340723346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_0
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 873
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4b85c7fc1666409af307b89c3b68e
+      internalID: 422043964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 863
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdba7150cbb93142bbe1f6118ceed9a
+      internalID: 231457734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 863
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb7cd770a0a0d43932dfb02cca6ad2
+      internalID: -1328091931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_3
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 863
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc31d2ab4afa254093114d5149cba47
+      internalID: -971061985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 774
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba4ccd446ffd448b89881cd2da1bb7
+      internalID: 291740114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 774
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24bcb9be2993242968b2805c4e418a
+      internalID: -45287582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 770
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0faf5d4b44fd48879a0e5753eb541
+      internalID: -1870494272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_8
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 770
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf735c4f104e84eaa98750b12dc2c9
+      internalID: 1535693106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 593
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b53017770b514448b16dc3b19a141d
+      internalID: -1153175917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 593
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b9298559ee7f44afc9cf055a8fafe
+      internalID: 426061973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 594
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a833ac31a97474084a4cec41d67150
+      internalID: 78465401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 598
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c81ad9d054d844aff64c782e7ab1d
+      internalID: 627556181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 593
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d978f61526d44597f84c21f8ad9ac
+      internalID: -634870295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 504
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827c779cc73a1b4aab085d9ecf5f211
+      internalID: 1554203187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_17
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 504
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d008d272016a45899eab2b5a18330
+      internalID: 957512129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 434
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5bfcc13e2658f48b54ea0ff90b2dd3
+      internalID: 1807193764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 434
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006128dc13258440a4da594b14a0ac8
+      internalID: -2122992488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_20
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 434
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e823e1da87c45478d0c8f9d1bdc131
+      internalID: -732048147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_25
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 213
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ea4f652828f84bbe1181b8992bf9d
+      internalID: 1889099011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 213
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799445e70f17e747b54151b2106f82f
+      internalID: -2013246612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 121
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35cecdfa57807439b0261493e36a44
+      internalID: -1535632659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f9ac3047f5574db034181194fd009
+      internalID: 2107041692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_29
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 120
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beea8beb42129941837ee2ce52c2b9f
+      internalID: -615013357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 119
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dddc2a50480e24fba84b8b996acdce
+      internalID: -1894162459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 118
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d30c30daf971034c80d148228afa22e
+      internalID: 560168713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_32
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 132
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31656f167ea0fae428f89a3ef50fca98
+      internalID: 1489242833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_33
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 120
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467d48087b134a4d9d8008ba886f0e0
+      internalID: -865129578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyberPunk_Blonde_GIMPlayers_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 119
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1fa8fe78ea8ed4ab354a9ac367fa54
+      internalID: -2105746221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CyberPunk_Blonde_GIMPlayers_34: -2105746221
+      CyberPunk_Blonde_GIMPlayers_19: -2122992488
+      CyberPunk_Blonde_GIMPlayers_31: 560168713
+      CyberPunk_Blonde_GIMPlayers_23: 320376102
+      CyberPunk_Blonde_GIMPlayers_13: 627556181
+      CyberPunk_Blonde_GIMPlayers_29: -615013357
+      CyberPunk_Blonde_GIMPlayers_21: 1397245343
+      CyberPunk_Blonde_GIMPlayers_7: -1870494272
+      CyberPunk_Blonde_GIMPlayers_20: -732048147
+      CyberPunk_Blonde_GIMPlayers_25: 1889099011
+      CyberPunk_Blonde_GIMPlayers_14: -634870295
+      CyberPunk_Blonde_GIMPlayers_33: -865129578
+      CyberPunk_Blonde_GIMPlayers_16: 1554203187
+      CyberPunk_Blonde_GIMPlayers_2: -1328091931
+      CyberPunk_Blonde_GIMPlayers_9: -1153175917
+      CyberPunk_Blonde_GIMPlayers_4: 291740114
+      CyberPunk_Blonde_GIMPlayers_11: 1788521167
+      CyberPunk_Blonde_GIMPlayers_24: -340723346
+      CyberPunk_Blonde_GIMPlayers_28: 2107041692
+      CyberPunk_Blonde_GIMPlayers_32: 1489242833
+      CyberPunk_Blonde_GIMPlayers_3: -971061985
+      CyberPunk_Blonde_GIMPlayers_30: -1894162459
+      CyberPunk_Blonde_GIMPlayers_18: 1807193764
+      CyberPunk_Blonde_GIMPlayers_8: 1535693106
+      CyberPunk_Blonde_GIMPlayers_26: -2013246612
+      CyberPunk_Blonde_GIMPlayers_0: 422043964
+      CyberPunk_Blonde_GIMPlayers_12: 78465401
+      CyberPunk_Blonde_GIMPlayers_27: -1535632659
+      CyberPunk_Blonde_GIMPlayers_15: -206685296
+      CyberPunk_Blonde_GIMPlayers_22: -1453829267
+      CyberPunk_Blonde_GIMPlayers_1: 231457734
+      CyberPunk_Blonde_GIMPlayers_5: 1151657880
+      CyberPunk_Blonde_GIMPlayers_10: 426061973
+      CyberPunk_Blonde_GIMPlayers_17: 957512129
+      CyberPunk_Blonde_GIMPlayers_6: -45287582
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
